@@ -2,7 +2,7 @@ import { defineConfig, type DefaultTheme } from 'vitepress'
 import { mkdirSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 
-const base = '/zero-to-sglang/'
+const base = '/'
 const repo = 'https://github.com/datawhalechina/zero-to-sglang'
 
 // ---------------------------------------------------------------------------
