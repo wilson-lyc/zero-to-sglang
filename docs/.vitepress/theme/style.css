@@ -1,3 +1,16 @@
+.VPNavBarTitle .title {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.site-title-tip {
+  color: var(--vp-c-text-2);
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
 .vp-doc img {
   cursor: zoom-in;
 }
